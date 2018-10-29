@@ -1,0 +1,22 @@
+body{
+	font-family: 'Indie Flower', cursive;
+	background-color: azure;
+}
+.container{
+	background-image:url(img/background.jpg);
+}
+.col-md-6{
+	background-color: aquamarine;
+}
+.par1{
+	background-color: beige;
+}
+.par2{
+  background-color: beige;
+}
+.par3{
+  background-color: beige;
+}
+.par4{
+  background-color: beige;	
+}
